@@ -1,0 +1,74 @@
+[
+  { "id": 0,
+    "animation": "card",
+    "description": "Placeholder text goes here..." 
+  },
+  { "id": 1,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 2,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 3,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 4,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 5,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+   { "id": 6,
+    "animation": "card",
+    "description": "Placeholder text goes here..." 
+  },
+  { "id": 7,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 8,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 9,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 10,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 11,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+   { "id": 12,
+    "animation": "card",
+    "description": "Placeholder text goes here..." 
+  },
+  { "id": 13,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 14,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 15,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 16,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   },
+  { "id": 17,
+    "animation": "card",
+    "description": "Placeholder text goes here..."
+   }
+]
